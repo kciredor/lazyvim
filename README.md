@@ -1,4 +1,6 @@
-# 💤 LazyVim
+# kciredor's Neovim (LazyVim) config.
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+TODO:
+- Preload everything for Go, Python, etc: https://www.lazyvim.org/configuration/examples
+- Check https://www.youtube.com/watch?v=N93cTbtLCIM
+- Look into https://www.lazyvim.org/extras/vscode
